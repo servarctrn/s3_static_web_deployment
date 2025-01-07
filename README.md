@@ -1,1 +1,1 @@
-# s3_static_web_deployment
+# aws-solutions-architect
